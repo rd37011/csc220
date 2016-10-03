@@ -1,0 +1,22 @@
+10/10	Code written up to rehash in prog11.lab Chained and Open.
+
+10/10	chained remove
+
+10/10	chained rehash (-5 for forgetting to set size=0).
+
+10/10	chained iterator
+
+10/10	open find
+
+10/10	open rehash
+
+10/10	modified rehash rule
+
+10/10	open interator
+
+10/10	wtinge is [tewing, twinge] (multiple answers)
+
+10/10	solve the pun
+
+
+total: 100/100

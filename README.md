@@ -1,4 +1,5 @@
-# csc220
-csc220 coursework in Java
+# java data structs
+
+coursework in Java
 
 Pretty self-explanatory. :)
